@@ -1,0 +1,344 @@
+{
+  "translations": {
+    "French_1748_ch1": {
+      "language": "French",
+      "year": 1748,
+      "publisher": "Barillot & fils, Genève",
+      "chapter": "1",
+      "original_title": "Du sujet de ce Livre.",
+      "original_text": "Cette matière est d'une grande étendue. Dans cette foule d'idées qui se présentent à mon esprit, je serai plus attentif à l'ordre des choses qu'aux choses mêmes ; il faut que j'écarte à droite et à gauche, que je perce, et que je me fasse jour.",
+      "translation": "This matter is of great extent. In this crowd of ideas which present themselves to my mind, I shall be more attentive to the order of things than to the things themselves; I must clear a path to right and left, pierce through, and make my way forward.",
+      "translation_notes": [
+        "The phrase 'me fasse jour' is literally 'make daylight for myself' but is rendered as 'make my way forward' to maintain the metaphorical meaning while preserving period style",
+        "The tripartite structure 'écarte...perce...me fasse jour' is preserved to maintain Montesquieu's characteristic rhetorical style",
+        "'foule d'idées' is kept as 'crowd of ideas' rather than modernized to 'many ideas' to preserve the original metaphorical imagery"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "me fasse jour",
+          "explanation": "This French idiom combines physical and metaphorical meanings in a way specific to 18th-century French philosophical writing. While translatable in meaning, the exact connotation of 'creating light/clarity through intellectual effort' is partially lost"
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "French",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:00:36.021978",
+        "prompt_hash": "1259ec2c2b690fe8753da3c5f413beeecb99c48da2033145c55b7f2939660e4e"
+      }
+    },
+    "French_1750_ch1": {
+      "language": "French",
+      "year": 1750,
+      "publisher": "Huart & Moreau, Paris, chez Barrillot & Fils, Genève",
+      "chapter": "1",
+      "original_title": "Du sujet de ce Livre.",
+      "original_text": "Cette matiere est d’une grande étendue. Dans cette foule d’idées qui se présentent à mon esprit, je serai plus attentif à l’ordre des choses qu’aux choses mêmes ; il faut que j’écarte à droite et à gauche, que je perce, et que je me fasse jour.",
+      "translation": "This matter is of great extent. In this crowd of ideas which present themselves to my mind, I shall be more attentive to the order of things than to the things themselves; I must clear a path to right and left, pierce through, and make my way forward.",
+      "translation_notes": [
+        "The phrase 'se présentent à mon esprit' is rendered in period-appropriate language as 'present themselves to my mind' rather than modern alternatives",
+        "The metaphorical 'que je me fasse jour' (literally 'make daylight') is translated as 'make my way forward' to maintain the philosophical imagery of intellectual progress",
+        "The tripartite structure 'écarter...perce...fasse jour' is preserved to maintain Montesquieu's characteristic rhetorical style",
+        "The term 'matiere' is deliberately translated as 'matter' rather than 'subject' to preserve the philosophical connotation common in 18th-century discourse"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "me fasse jour",
+          "explanation": "This French idiom literally means 'make daylight for myself' and carries both physical and metaphysical connotations that are difficult to fully capture in English. The chosen translation preserves the meaning but loses some of the light/enlightenment imagery present in the French."
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "French",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:00:44.314185",
+        "prompt_hash": "fd2813b74f18ad93c3e7332c4e11242989a4c93cb7d798182dee3d27cae43fd3"
+      }
+    },
+    "French_1758_ch1": {
+      "language": "French",
+      "year": 1758,
+      "publisher": "Arkstee & Merkus, Amsterdam & Leipzig / Huart, Paris",
+      "chapter": "1",
+      "original_title": "Du sujet de ce livre.",
+      "original_text": "Cette matière est d'une grande étendue. Dans cette foule d'idées qui se présentent à mon esprit, je serai plus attentif à l'ordre des choses, qu'aux choses même. Il faut que j'écarte à droite et à gauche , que je perce, et que je me fasse jour.",
+      "translation": "This matter is of great extent. In this crowd of ideas which present themselves to my mind, I shall be more attentive to the order of things than to the things themselves. I must clear a path to right and left, pierce through, and make my way forward.",
+      "translation_notes": [
+        "The phrase 'se présentent à mon esprit' is rendered in period-appropriate language as 'present themselves to my mind' rather than modern alternatives",
+        "The metaphorical 'que je me fasse jour' literally means 'that I make daylight for myself' but is translated as 'make my way forward' to maintain the philosophical sense of intellectual progress",
+        "The tripartite structure 'écarter...perce...fasse jour' is preserved to maintain Montesquieu's rhetorical rhythm"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "me fasse jour",
+          "explanation": "This French idiom combines physical and intellectual enlightenment in a way unique to 18th-century French philosophical discourse. The English translation loses some of the light/knowledge metaphorical connection present in the original."
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "French",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:00:51.920392",
+        "prompt_hash": "6f83ccb7074c5b9d4e31983b42471cbd9c4a15cee9788f8d1635ee1c5408c0b9"
+      }
+    },
+    "French_1784_ch1": {
+      "language": "French",
+      "year": 1784,
+      "publisher": "Sanson & Compagnie, Deux-Ponts",
+      "chapter": "1",
+      "original_title": "Du sujet de ce livre.",
+      "original_text": "Cette matière est d'une grande étendue. Dans cette foule d'idées qui se présentent à mon esprit, je serai plus attentif à l'ordre des choses qu'aux choses mêmes. Il faut que j'écarte à droite et à gauche, que je perce et que je me fasse jour.",
+      "translation": "This matter is of great extent. In this crowd of ideas which present themselves to my mind, I shall be more attentive to the order of things than to the things themselves. I must clear a path to right and left, pierce through and make my way forward.",
+      "translation_notes": [
+        "The phrase 'se présentent à mon esprit' is rendered in period-appropriate language as 'present themselves to my mind' rather than modern alternatives",
+        "The metaphorical 'écarter à droite et à gauche' is translated to maintain the physical imagery of clearing a path",
+        "'que je me fasse jour' is translated idiomatically while preserving the original metaphor of making one's way through obstacles",
+        "The formal structure and rhythm of Montesquieu's prose is maintained through parallel clauses"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "me fasse jour",
+          "explanation": "This French idiom literally means 'make daylight for myself' but carries connotations of intellectual breakthrough and progress that aren't fully captured in English"
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "French",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:05:37.214364",
+        "prompt_hash": "392ebd1740cedff023eb86bcaf6fa331cde1813156ff87ef6249d21de02d8e4a"
+      }
+    },
+    "French_1803_ch1": {
+      "language": "French",
+      "year": 1803,
+      "publisher": "Didot, Paris",
+      "chapter": "1",
+      "original_title": "Du sujet de ce livre.",
+      "original_text": "Cette matiere est d’une grande étendue. Dans cette foule d’idees qui se présentent à mon esprit, je serai plus attentif a l’ordre des choses qu’aux choses mêmes. II faut que j'écarte à droite et à gauche, que je perce, et que je me fasse jour.",
+      "translation": "This matter is of great extent. In this crowd of ideas which present themselves to my mind, I shall be more attentive to the order of things than to the things themselves. I must clear my way to right and left, pierce through, and make my way forward.",
+      "translation_notes": [
+        "The phrase 'se présentent à mon esprit' is rendered in period-appropriate language as 'present themselves to my mind' rather than modern alternatives",
+        "The metaphorical 'que je me fasse jour' is translated as 'make my way forward' to preserve the original's sense of creating a path through obstacles",
+        "The tripartite structure 'écarte...perce...fasse jour' is maintained to preserve Montesquieu's rhetorical rhythm",
+        "The formal 'II faut que' is translated with the appropriately formal 'I must' rather than more casual alternatives"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "me fasse jour",
+          "explanation": "This French idiom literally means 'make daylight for myself' and carries connotations of both intellectual enlightenment and physical path-clearing that cannot be perfectly captured in a single English phrase"
+        }
+      ],
+      "confidence": 0.95,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "French",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:05:46.297659",
+        "prompt_hash": "b0372a4c8baa4a00f982e00e714d741bb7507391e3027d4361b0b2a32c98b573"
+      }
+    },
+    "German_1753_ch1": {
+      "language": "German",
+      "year": 1753,
+      "publisher": "S.N., Frankfurt & Leipzig",
+      "chapter": "1",
+      "original_title": "Von dem Inhalte dieses Buches.",
+      "original_text": "Diese Materie ist sehr weitläuftig. Ben einer so großen Menge von Begriffen, die mir vorkommen, werde ich mehr auf die Ordnung der Sachen, als auf die Sachen selbst sehen. Ich muß mich bald zur Rechten, bald zur Linken wenden, und mir eine Oeffnung machen, damit ich freye Aussicht gewinne.",
+      "translation": "This matter is very extensive. Given such a great multitude of concepts that present themselves to me, I shall attend more to the order of things than to the things themselves. I must turn now to the right, now to the left, and make for myself an opening, so that I might gain free prospect.",
+      "translation_notes": [
+        "Used 'extensive' for 'weitläuftig' to maintain period-appropriate terminology",
+        "Preserved the formal 18th-century construction 'present themselves to me' for 'mir vorkommen'",
+        "Maintained the metaphorical language of spatial movement in the final sentence",
+        "'free prospect' chosen over 'clear view' to better reflect 18th-century philosophical language"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "Aussicht",
+          "explanation": "While translated here as 'prospect', this term in 18th-century German philosophical writing carries both literal (view/outlook) and metaphysical (perspective/understanding) connotations that aren't fully captured in a single English word"
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "German",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:05:54.899084",
+        "prompt_hash": "ee95d372f45f68d514e4f77684d18fc2d0831bf76e744027846df8af508f0688"
+      }
+    },
+    "German_1799_ch1": {
+      "language": "German",
+      "year": 1799,
+      "publisher": "Wien & Bauer, Vienna",
+      "chapter": "1",
+      "original_title": "Vom Inhalte dieses Buchs.",
+      "original_text": "Diese Materie geht sehr ins Weite. Bey der Menge von Ideen, die meinem Verstande sich darstellen, werde ich aufmerksamer auf die Ordnung der Sachen, als auf die Sachen selbst seyn. Ich muß zur Rechten und zur Linken abwehren, muß mich durcharbeiten und mir Licht schaffen.",
+      "translation": "This matter extends far and wide. Given the multitude of ideas that present themselves to my understanding, I shall be more attentive to the order of things than to the things themselves. I must ward off from right and left, must work my way through and create light for myself.",
+      "translation_notes": [
+        "The phrase 'geht ins Weite' is rendered as 'extends far and wide' to maintain period authenticity while capturing the metaphorical sense",
+        "The term 'Verstande' is translated as 'understanding' rather than 'intellect' to maintain Enlightenment philosophical terminology",
+        "'zur Rechten und zur Linken' is kept as a literal directional metaphor common in 18th-century philosophical writing",
+        "'Licht schaffen' is translated literally as 'create light' to preserve the Enlightenment metaphor of illumination"
+      ],
+      "untranslatable_terms": [
+        {
+          "term": "sich darstellen",
+          "explanation": "The German reflexive construction carries philosophical connotations of self-presentation that aren't fully captured in English's more active voice"
+        }
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "model": "claude-3-5-sonnet-20241022",
+        "provider": "anthropic",
+        "source_language": "German",
+        "target_language": "English",
+        "timestamp": "2025-07-29T12:06:03.447642",
+        "prompt_hash": "9f86aa0234d77e00ceefff943133f6a7b5d6d17f79dae79df93e5387a9755acd"
+      }
+    }
+  },
+  "semantic_analysis": {
+    "French_1758_vs_1784_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "punctuation in logical flow",
+          "text1_excerpt": "pierce through, and make my way forward",
+          "text2_excerpt": "pierce through and make my way forward",
+          "significance": "The removal of the comma slightly alters the rhythm of thought progression, making the actions more fluid and connected rather than discrete steps",
+          "confidence": 0.7
+        }
+      ],
+      "similarity": 0.99,
+      "summary": "The texts are nearly identical, with the only difference being a single comma removal. This minimal change suggests careful preservation of Montesquieu's original meaning while making subtle adjustments to match evolving conventions of French prose style. The philosophical content remains unchanged, though the later version's punctuation creates a slightly more fluid reading experience that better reflects Enlightenment ideals of clear, progressive thought."
+    },
+    "French_1784_vs_1803_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "agency and action",
+          "text1_excerpt": "I must clear a path",
+          "text2_excerpt": "I must clear my way",
+          "significance": "The 1803 version emphasizes personal agency through the possessive 'my way' versus the more objective 'a path', suggesting a slight shift toward individual determination",
+          "confidence": 0.8
+        }
+      ],
+      "similarity": 0.95,
+      "summary": "The variations between these versions are minimal but meaningful, primarily centered on the representation of individual agency. The 1803 version subtly modernizes the expression while maintaining the essential philosophical content. The modifications appear deliberate but conservative, suggesting careful editorial consideration rather than substantial conceptual revision. The core metaphorical structure of intellectual exploration remains intact, with only slight adjustments to its expression."
+    },
+    "English_1750_vs_1766_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "epistemological methodology",
+          "text1_excerpt": "search into",
+          "text2_excerpt": "investigate",
+          "significance": "The shift from 'search into' to 'investigate' reflects a more systematic, scientific approach to inquiry, aligning with Enlightenment empiricism",
+          "confidence": 0.85
+        },
+        {
+          "type": "modification",
+          "concept": "scope definition",
+          "text1_excerpt": "great extent",
+          "text2_excerpt": "very extensive",
+          "significance": "The modification suggests a more precise academic terminology, reflecting the evolution of philosophical discourse",
+          "confidence": 0.75
+        }
+      ],
+      "similarity": 0.92,
+      "summary": "The revisions, while subtle, demonstrate an evolution toward more precise academic language and methodological rigor, while maintaining Montesquieu's characteristic use of spatial metaphors for intellectual inquiry. The changes reflect both the maturation of Enlightenment discourse and the author's refined scholarly voice, without fundamentally altering the philosophical content."
+    },
+    "English_1766_vs_1777_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "epistemological methodology",
+          "text1_excerpt": "investigate and discover",
+          "text2_excerpt": "search into and discover",
+          "significance": "The shift from 'investigate' to 'search into' suggests a slightly more tentative, exploratory approach to knowledge acquisition, reflecting evolving empiricist methodologies of the period",
+          "confidence": 0.85
+        },
+        {
+          "type": "modification",
+          "concept": "scope definition",
+          "text1_excerpt": "very extensive",
+          "text2_excerpt": "of a great extent",
+          "significance": "The reformulation emphasizes spatial metaphor over qualitative assessment, aligning with period's increasing preference for measurable quantities",
+          "confidence": 0.75
+        }
+      ],
+      "similarity": 0.92,
+      "summary": "The 1777 version maintains the core philosophical content while making subtle adjustments that reflect evolving scholarly conventions and epistemological approaches of the late 18th century. Changes primarily serve to formalize tone and clarify methodology rather than substantially alter meaning."
+    },
+    "English_1777_vs_1794_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "epistemological methodology",
+          "text1_excerpt": "croud",
+          "text2_excerpt": "crowd",
+          "significance": "The spelling modernization reflects standardization of English, but doesn't alter the philosophical meaning of multiplicities of ideas",
+          "confidence": 0.95
+        }
+      ],
+      "similarity": 0.98,
+      "summary": "The two versions are nearly identical, with the only significant difference being the modernization of spelling ('croud' to 'crowd'). This change reflects linguistic evolution rather than philosophical reinterpretation. The preservation of key metaphorical and conceptual elements suggests careful attention to maintaining Montesquieu's original meaning across both translations. The philosophical content, particularly regarding methodology and the search for truth, remains unchanged between versions."
+    },
+    "English_1794_vs_1800_ch1": {
+      "changes": [
+        {
+          "type": "none",
+          "concept": "n/a",
+          "text1_excerpt": "n/a",
+          "text2_excerpt": "n/a",
+          "significance": "The texts are identical, suggesting stable transmission of Montesquieu's epistemological approach between these editions",
+          "confidence": 1.0
+        }
+      ],
+      "similarity": 1.0,
+      "summary": "The complete textual identity between these versions indicates either direct reproduction from the same translation source or a deliberate choice to maintain consistency in this methodological passage. The preservation of Montesquieu's epistemological framework remains intact across both versions, suggesting the translators' commitment to maintaining the philosophical precision of the original French. The metaphor of 'wandering' to discover truth, central to Enlightenment empiricism, is consistently maintained."
+    },
+    "German_1753_vs_1799_ch1": {
+      "changes": [
+        {
+          "type": "modification",
+          "concept": "epistemological agency",
+          "text1_excerpt": "present themselves to me",
+          "text2_excerpt": "present themselves to my understanding",
+          "significance": "The 1799 version emphasizes the role of rational faculty (understanding) rather than mere personal experience, reflecting late Enlightenment emphasis on systematic knowledge",
+          "confidence": 0.9
+        },
+        {
+          "type": "modification",
+          "concept": "methodological clarity",
+          "text1_excerpt": "make for myself an opening, so that I might gain free prospect",
+          "text2_excerpt": "must work my way through and create light for myself",
+          "significance": "Shift from spatial/visual metaphor to illumination metaphor suggests stronger alignment with Enlightenment ideals of clarity and reason",
+          "confidence": 0.85
+        }
+      ],
+      "similarity": 0.85,
+      "summary": "While maintaining the core meaning, the 1799 translation demonstrates a subtle but significant shift toward more rationalistic, systematic philosophical discourse characteristic of late Enlightenment thought. The modifications suggest an attempt to update Montesquieu's ideas for a more philosophically sophisticated German audience, emphasizing active intellectual engagement and methodological clarity."
+    }
+  },
+  "visualization": {
+    "supported": true,
+    "types": [
+      "differences",
+      "confidence",
+      "evolution"
+    ]
+  }
+}
