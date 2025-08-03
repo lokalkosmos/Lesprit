@@ -1,0 +1,290 @@
+{
+  "French_1748_ch6": {
+    "language": "French",
+    "year": 1748,
+    "publisher": "Barillot & fils, Genève",
+    "chapter": "6",
+    "original_title": "Qu'il ne faut pas tout corriger.",
+    "original_text": "Qu'on nous laisse comme nous sommes, disoit un Gentilhomme d'une Nation qui ressemble beaucoup à celle dont nous venons de donner une idée. La Nature répare tout. Elle nous a donné une vivacité capable d'offenser et propre à nous faire manquer à tous les égards ; cette même vivacité est corrigée parla politesse qu'elle nous procure, en nous inspirant du goût pour le monde et surtout pour le commerce des femmes.\r\nQu'on nous laisse tels que nous sommes. Nos qualités indiscrètes, jointes à nôtre peu de malice, font que les Loix qui gêneroient l'humeur sociable parmi nous, ne seraient point convenables.",
+    "translation": "Let us remain as we are, said a Gentleman of a Nation which greatly resembles that of which we have just given an idea. Nature repairs all. She has given us a vivacity capable of giving offense and apt to make us fail in all proprieties; this same vivacity is corrected by the politeness it procures for us, by inspiring in us a taste for society and especially for the company of women. Let us remain as we are. Our indiscreet qualities, joined with our lack of malice, mean that Laws which would constrain sociable temperament among us would not be fitting.",
+    "translation_notes": [
+      "The term 'commerce des femmes' is translated as 'company of women' though in 18th century French it carried more complex social connotations",
+      "The phrase 'humeur sociable' is rendered as 'sociable temperament' to maintain period authenticity",
+      "'Loix' is deliberately translated as 'Laws' with capital L to preserve the period style",
+      "The repetition of 'Qu'on nous laisse' is maintained to preserve rhetorical emphasis"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "politesse",
+        "explanation": "While translated as 'politeness,' the French term in 18th-century usage encompassed a broader concept of social refinement, courtly manners, and civilized behavior that doesn't have a direct English equivalent"
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "French",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:22:23.337312",
+      "prompt_hash": "667816cd8be2ae031d996070fb9529eb9f18550e42d4b6b209936f32603c3249"
+    }
+  },
+  "French_1750_ch6": {
+    "language": "French",
+    "year": 1750,
+    "publisher": "Huart & Moreau, Paris, chez Barrillot & Fils, Genève",
+    "chapter": "6",
+    "original_title": "Qu'il ne faut pas tout corriger.",
+    "original_text": "Qu'on nous laissé comme nous sommes, disoit un Gentilhomme d'une Nation qui ressemble beaucoup à celle dont nous venons de donner une idée. La Nature répare tout. Elle nous a donné une vivacité capable, d'offenser et propré à nous faire manquer à tous les égards ; cette même vivacité est corrigée par la politesse qu'elle nous procure, en nous inspirant du goût pour le monde et surtout pour le commerce des femmes.\r\nQu'on nous laisse tels que nous sommes. Nos qualités indiscrètes, jointes à notre peu de malice, font que les loix qui géneroient l'humeur sociable parmi nous, ne seroient point convenables.",
+    "translation": "Let us remain as we are, said a Gentleman of a Nation which greatly resembles that of which we have just given an idea. Nature repairs all. She has given us a vivacity capable of giving offense and apt to make us fail in all proprieties; this same vivacity is corrected by the politeness it procures us, in inspiring within us a taste for society and especially for the company of women. Let us remain as we are. Our indiscreet qualities, joined with our lack of malice, mean that laws which would constrain sociable temperament among us would not be fitting.",
+    "translation_notes": [
+      "The term 'commerce des femmes' is translated as 'company of women' though in 18th-century usage it carried more complex social connotations",
+      "The phrase 'humeur sociable' is rendered as 'sociable temperament' to maintain period medical/philosophical undertones",
+      "The spelling 'géneroient' (modern 'gêneraient') reflects 18th-century French orthography",
+      "'politesse' carries stronger cultural implications in 18th-century French than modern English 'politeness'"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "commerce des femmes",
+        "explanation": "This term in 18th-century French implied a complex social system of gallantry and conversation specific to French salon culture"
+      },
+      {
+        "term": "politesse",
+        "explanation": "In Montesquieu's context, this term represented an entire social philosophy and way of being, not just simple politeness"
+      }
+    ],
+    "confidence": 0.9,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "French",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:22:35.491639",
+      "prompt_hash": "30e5aeb17dcfc69b6e9f1e9c1853623cbffcfd91dbbb4fdc557093f7cfc4e038"
+    }
+  },
+  "French_1758_ch6": {
+    "language": "French",
+    "year": 1758,
+    "publisher": "Arkstee & Merkus, Amsterdam & Leipzig / Huart, Paris",
+    "chapter": "6",
+    "original_title": "Qu'il ne faut pas tout corriger.",
+    "original_text": "Qu'on nous laisse comme nous sommes, disoit un gentilhomme d'une nation qui ressemble beaucoup à celle dont nous venons de donner une idée. La nature répare tout. Elle nous a donné une vivacité capable d'offenser, et propre à nous faire manquer à tous les égards ; cette même vivacité est corrigée par la politesse qu'elle nous procure, en nous inspirant du goût pour le monde, et surtout pour le commerce des femmes.\nQu'on nous laisse tels que nous sommes. Nos qualités indiscrèttes, jointes à notre peu de malice, font que les loix qui gêneroient l'humeur sociable parmi nous ne seroient point convenables.",
+    "translation": "\"Leave us as we are,\" said a gentleman of a nation which greatly resembles that of which we have just given an idea. \"Nature repairs all. She has given us a vivacity capable of giving offense, and apt to make us fail in all proprieties; this same vivacity is corrected by the politeness it procures for us, by inspiring in us a taste for society, and above all for the commerce with women.\n\nLeave us as we are. Our indiscreet qualities, joined with our lack of malice, mean that laws which would constrain sociable temperament among us would not be fitting.\"",
+    "translation_notes": [
+      "The term 'commerce des femmes' is translated as 'commerce with women' to maintain period authenticity, though modern readers might misinterpret this - it refers to social interaction",
+      "The word 'égards' is translated as 'proprieties' to maintain the formal 18th-century context",
+      "'humeur sociable' is rendered as 'sociable temperament' to preserve Montesquieu's concept of social disposition",
+      "The subjunctive 'seroient' (modern 'seraient') is maintained through the conditional structure in English"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "politesse",
+        "explanation": "While translated as 'politeness,' the French term carries deeper connotations in 18th-century usage, referring to a complete system of social refinement and civilization"
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "French",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:22:46.988207",
+      "prompt_hash": "e9bc9a7c1c1fa232e4ac67e5580950cfbb6d2b45b119beab1003c07c3c437acc"
+    }
+  },
+  "French_1784_ch6": {
+    "language": "French",
+    "year": 1784,
+    "publisher": "Sanson & Compagnie, Deux-Ponts",
+    "chapter": "6",
+    "original_title": "Qu'il ne saut pas tout corriger.",
+    "original_text": "Qu'on nous laisse comme nous sommes, disoit un Gentilhomme d’une nation qui ressemblé beaucoup à celle dont nous venons de donner une idée. La nature répare tout. Elle nous à donné une vivacité capable d’offenser; et propre à nous faire manquer à tous les égards; cette même vivacité est corrigée par la politesse qu’elle nous procure, en nous inspirant du goût pour le monde, et surtout pour le commerce des femmes.\nQuon nous laisse tels que nous sommes. Nos qualités indiscretes, jointes à notre peu de malice, font que les lois qui géneroient l’humeur sociable parmi nous, ne seroient point convenables.",
+    "translation": "\"Leave us as we are,\" said a Gentleman of a nation which greatly resembles that of which we have just given an idea. Nature repairs all. She has given us a vivacity capable of giving offense, and apt to make us fail in all proprieties; this same vivacity is corrected by the politeness it procures for us, by inspiring in us a taste for society, and above all for the company of women.\n\nLeave us as we are. Our indiscreet qualities, joined with our lack of malice, mean that laws which would constrain sociable temperament among us would not be suitable.",
+    "translation_notes": [
+      "The term 'commerce des femmes' is translated as 'company of women' rather than literal 'commerce' to better reflect 18th-century usage",
+      "Maintained period-specific spellings like 'politeness' and 'proprieties'",
+      "'humeur sociable' translated as 'sociable temperament' to preserve period concept",
+      "Preserved the semicolon usage characteristic of 18th-century prose"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "égards",
+        "explanation": "While translated as 'proprieties,' the French term carries specific connotations of social consideration and respect that aren't fully captured in English"
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "French",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:22:58.059041",
+      "prompt_hash": "7ad76d5b03c4bbe0c6e0100151fa33e92cbda60f5547776e84ad8de56139ed47"
+    }
+  },
+  "French_1803_ch6": {
+    "language": "French",
+    "year": 1803,
+    "publisher": "Didot, Paris",
+    "chapter": "6",
+    "original_title": "Qu’il ne faut pas tout corriger.",
+    "original_text": "Qu’on nous laisse comme nous sommes, disoit un gentilhomme d’une nation qui ressemble beaucoup à celle dont nous venons de donner une idée. La nature répare tout : elle nous a donne une vivacité capable d’offenser et propre à nous faire manquer à tous les égards; cette même vivacité est corrigée parla politesse qu’elle nous procure, eu nous inspirant du goût pour le monde, et surtout pour le commerce des femmes.\nQu’on nous laisse tels que nous sommes. Nos qualités indiscrètes, jointes à notre peu de malice, font que les lois qui generoient l’humeur sociable parmi nous ne seroient point convenables.",
+    "translation": "\"Leave us as we are,\" said a gentleman of a nation which greatly resembles that of which we have just given an idea. \"Nature repairs all: she has given us a vivacity capable of giving offense and apt to make us fail in all proprieties; this same vivacity is corrected by the politeness it procures for us, by inspiring in us a taste for society, and above all for the commerce with women. Let us remain as we are. Our indiscreet qualities, joined with our lack of malice, mean that laws which would constrain sociable temperament among us would not be fitting.\"",
+    "translation_notes": [
+      "The term 'commerce des femmes' is translated as 'commerce with women' to maintain period authenticity, though modern readers might misinterpret this - it refers to social interaction, not business",
+      "The phrase 'humeur sociable' is rendered as 'sociable temperament' to preserve the 18th-century medical/philosophical concept of 'humeurs'",
+      "'generoient' (modern: gêneraient) is translated as 'constrain' to maintain the period's legal-philosophical context"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "politesse",
+        "explanation": "While translated as 'politeness,' the French term carries deeper social and philosophical implications in 18th-century usage, referring to a complete system of manners and social conduct that doesn't have an exact English equivalent"
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "French",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:23:08.085281",
+      "prompt_hash": "8f097e1f2f44121376fa54f161cb941d89f3999f50c3cd78f7026cf0b1964548"
+    }
+  },
+  "Italian_1750_ch6": {
+    "language": "Italian",
+    "year": 1750,
+    "publisher": "Simone, Naples",
+    "chapter": "6",
+    "original_title": "Che non si deve tutto correggere.",
+    "original_text": "Che ci lascino come stiamo , diceva un Gentiluomo d’una Nazione, che rassomiglia dimolto a quella, di cui abbiamo dato una idea. La natura provvede a tutto . Essa ci ha dato una vivacità capace di offendere, e propria da farci mancare in ogni cosa; questa medesima vivacità è corretta dalla garbatezza, che essa ci procura, dandoci del gusto pel mondo, e sovra tutto per la conversazione delle Donne.\r\nChe ci lascino tali quali siamo. Le nostre qualità indiscrete, unite alla nostra poca malizia, fanno, che le Leggi, che limiterebbero l'umore sociabile fra di noi, non sarebbero affatto convenevoli.",
+    "translation": "{\n    \"translation\": \"Let us remain as we are, said a Gentleman of a Nation which bears much resemblance to that of which we have given an idea. Nature provides for all things. She has given us a vivacity capable of giving offense, and apt to make us wanting in every matter; this same vivacity is corrected by the politeness which she procures for us, giving us a taste for society, and above all for the conversation of Women.\nLet us remain as we are. Our indiscreet qualities, united with our little malice, make it so that Laws which would limit sociable humor amongst us would not be at all suitable.\",\n    \n    \"translation_notes\": [\n        \"The term 'garbatezza' is rendered as 'politeness' though in 18th-century context it carried more complex social connotations\",\n        \"The phrase 'pel mondo' (literally 'for the world') is translated as 'for society' to better capture the philosophical meaning\",\n        \"Maintained the capitalization of 'Women' and 'Laws' as was common in 18th-century philosophical writings\",\n        \"The repetition of 'Che ci lascino' is preserved as it appears to be intentionally rhetorical\"\n    ],\n    \n    \"untranslatable_terms\": [\n        {\n            \"term\": \"umore sociabile\",\n            \"explanation\": \"While translated as 'sociable humor', this term in 18th-century Italian philosophy carried specific connotations about human nature and social disposition that don't fully translate to English\"\n        }\n    ],\n    \n    \"confidence\": 0.9\n}",
+    "translation_notes": [
+      "Raw response - JSON parsing failed"
+    ],
+    "untranslatable_terms": [],
+    "confidence": 0.7,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "Italian",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:23:16.175296",
+      "prompt_hash": "dc1d53dc8ae8f740e583687f022016ac781baa25527cddd801d3806422115edf"
+    }
+  },
+  "Italian_1777_ch6": {
+    "language": "Italian",
+    "year": 1777,
+    "publisher": "Terres, Napoli",
+    "chapter": "6",
+    "original_title": "Non esser necessario il corregger tutto.",
+    "original_text": "Ci si lasci come ci troviamo, diceva un Gentiluomo d’una Nazione molto analoga a quella, di cui abbiamo data un' idea. Tutto ripara la natura. Ci ha essa data una vivacità capace d'offendere, ed atta a farci mancare a tutt'i riguardi: questa stessa vivacità vien corretta dalla gentilezza, che ci proccura, inspirandoci del gusto pel mondo, e singolarmente per la conversazione delle donne.\r\nCi si lasci tali quali siamo. Le nostre indiscrete qualità unite alla scarsa nostra malizia, fanno, che le leggi, le quali limitassero l'umore sociabile fra noi, non ci converrebbero.",
+    "translation": "Let us remain as we are, said a Gentleman of a Nation much analogous to that of which we have given an idea. Nature repairs all. She has given us a vivacity capable of giving offense, and apt to make us fail in all regards: this same vivacity is corrected by the gentility which it procures for us, inspiring in us a taste for society, and particularly for the conversation of women. Let us remain as we are. Our indiscreet qualities united with our scarce malice, make it so that laws which would limit sociable humor amongst us would not suit us.",
+    "translation_notes": [
+      "The term 'Gentiluomo' is translated as 'Gentleman' to maintain period-appropriate social class distinctions",
+      "The phrase 'tutt'i riguardi' (all regards/considerations) is kept structurally similar to maintain the 18th-century formal style",
+      "'umore sociabile' is translated as 'sociable humor' to preserve the period's understanding of temperaments and social disposition",
+      "The repetition of 'Ci si lasci' is maintained as 'Let us remain' to preserve the rhetorical emphasis"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "gentilezza",
+        "explanation": "While translated as 'gentility,' the Italian term carries broader connotations of both innate nobility and learned refinement that the English equivalent doesn't fully capture in 18th-century usage"
+      }
+    ],
+    "confidence": 0.9,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "Italian",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:23:27.849949",
+      "prompt_hash": "914c91471d1f19968db3b138794b336a457a0115c094cc84f848efe94c33fc9e"
+    }
+  },
+  "German_1753_ch6": {
+    "language": "German",
+    "year": 1753,
+    "publisher": "S.N., Frankfurt & Leipzig",
+    "chapter": "6",
+    "original_title": "Man muß nicht alles verbessern.",
+    "original_text": "Man lasse uns wie wir sind, sprach ein Edelmann aus einer gewissen Nation, die derjenigen ziemlich gleich kömmt, von der wir einen Begriff gegeben haben. Die Natur bringt alles zurechte. Sie hat uns mit einer gewissen Lebhaftigkeit begabet, damit wir bisweilen andere beleidigen und alle Hochachtung gegen sie aus den Augen setzen. Jedoch wird eben diese Lebhaftigkeit durch die Höflichkeit verbessert, die uns die Natur an die Hand giebt, indem sie uns den Umgang und insbesondere das Frauenzimmer angenehm machet.\r\nMan lasse uns nur immer so, wie wir sind. Unsere unbescheidenen Eigenschaften, die mit etwas Leichtfertigkeit verbunden sind, verursachen, daß Gesetze, die eine gesellige Gemüthsart zwingen würden, keinesweges zuträglich seyn möchten.",
+    "translation": "Let us be as we are, spoke a nobleman from a certain nation, which is quite similar to the one of which we have given an account. Nature sets everything right. She has endowed us with a certain vivacity, such that we sometimes offend others and cast aside all respect towards them. However, this very vivacity is improved through politeness, which Nature puts at our disposal, in that it makes social intercourse and, in particular, the company of ladies agreeable to us. Let us remain just as we are. Our immodest qualities, which are connected with some levity, cause that laws which would constrain a sociable disposition might in no way be beneficial.",
+    "translation_notes": [
+      "The term 'Frauenzimmer' is rendered as 'the company of ladies' to maintain period authenticity while capturing the formal connotation",
+      "The phrase 'an die Hand giebt' (literally 'gives to hand') is translated as 'puts at our disposal' to maintain the formal 18th-century style",
+      "The term 'gesellige Gemüthsart' is translated as 'sociable disposition' to preserve the philosophical concept of sociability central to Enlightenment thought",
+      "Maintained the formal structure of nested clauses typical of 18th-century philosophical prose"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "Gemüthsart",
+        "explanation": "While translated as 'disposition,' this term carries specific 18th-century connotations about temperament and character that aren't fully captured in English"
+      }
+    ],
+    "confidence": 0.9,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "German",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:23:39.734086",
+      "prompt_hash": "1fa7d2ad282bd6a53a4c0f2c493885cfd3532b50c17aedf6caa8f834aea16efc"
+    }
+  },
+  "German_1799_ch6": {
+    "language": "German",
+    "year": 1799,
+    "publisher": "Wien & Bauer, Vienna",
+    "chapter": "6",
+    "original_title": "Man muß nicht alles verbessern.",
+    "original_text": "Man lasse uns, wie wir sind, sprach ein Edelmann aus einer Nation, die der jetzt eben beschriebenen sehr gleich sieht. Die Natur bringt alles zurechte. Sie hat uns eine Lebhaftigkeit verliehen, die beleidigend werden und uns verleiten könnte, alle Achtung gegen andre zu vergessen; eben diese Lebhaftigkeit wird gemildert durch die Höflichkeit, welche sie uns eigen macht, indem sie uns Geschmack am Umgange, und vorzüglich am Umgange mit Frauenzimmer, einflößet.\r\nMan lasse uns, wie wir sind. Unser Leichtsinn und Unbedachtsamkeit, mit unserm Bißchen Bösartigkeit verbunden, verursachen, daß die Gesetze, welche der Neigung zur Geselligkeit unter uns Zwang anthun würden, nicht zuträglich seyn dürften.",
+    "translation": "Leave us as we are, spoke a nobleman from a nation that very much resembles the one just described. Nature sets everything aright. She has bestowed upon us a vivacity that could become offensive and might seduce us to forget all respect towards others; this very vivacity is tempered by the politeness which she makes peculiar to us, by instilling in us a taste for society, and especially for the society of ladies.\n\nLeave us as we are. Our levity and thoughtlessness, combined with our small portion of malice, cause that the laws which would impose constraints upon our inclination towards sociability might not prove advantageous.",
+    "translation_notes": [
+      "Used 'vivacity' rather than 'liveliness' to maintain 18th-century philosophical discourse",
+      "Maintained formal address style with 'she' for Nature, common in period texts",
+      "'Frauenzimmer' translated as 'ladies' rather than 'women' to preserve period social context",
+      "Preserved the rhetorical repetition of 'Leave us as we are'",
+      "Used 'advantageous' rather than 'suitable' for 'zuträglich' to maintain formal register"
+    ],
+    "untranslatable_terms": [
+      {
+        "term": "Bißchen Bösartigkeit",
+        "explanation": "Contains subtle cultural connotations of self-aware, almost playful acknowledgment of minor social transgressions that doesn't fully translate to English"
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "German",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:23:52.630917",
+      "prompt_hash": "32eee6b8698cdaa4519594934d55115708aa9c639aa1ccf9fca3397796068743"
+    }
+  },
+  "Polish_1777_ch6": {
+    "language": "Polish",
+    "year": 1777,
+    "publisher": "Gröll, Leipzig & Dresden",
+    "chapter": "6",
+    "original_title": "Wszytkiego nienależy poprawiać.",
+    "original_text": "Niech nas tak iak iesteśmy zostawią, mowił pewny Szlachcic z Narodu, ktory bardzo podobny do tego iaki wspomnieliśmy dopiero. Natura wszytko naprawia. Wlała nam żywość, która może urażać, y do tego prowadzić, że bardzo biądzić możemy; tę sámę żywość grzeczność ztąd nabyta poprawia, smak nam wzniecaiąc do Świata, a szczegulnie do społeczności Kobiecey.\nNiechay nas iak iesteśmy żostawią. Niewiele w sobie złośliwości maiąc, lekkie nasze własności sprawuią że Prawa czyniące przykrość humorowi Towarzyskiemu, niebyłyby przyzwoite bynaymniey.",
+    "translation": "{\n    \"translation\": \"Let them leave us as we are, spoke a certain Nobleman from a Nation, which is very similar to the one we have just mentioned. Nature mends everything. She has instilled in us a vivacity which may offend, and lead us to err greatly; this same vivacity is corrected by the politeness thus acquired, kindling in us a taste for Society, and particularly for the Company of Women. \nLet them leave us as we are. Having little malice within us, our light dispositions make Laws that vex the Social temperament most unsuitable indeed.\",\n    \n    \"translation_notes\": [\n        \"The text appears to be from a period translation or discussion of Montesquieu's works, likely 'The Spirit of the Laws'\",\n        \"Maintained 18th-century capitalization of important nouns (Nature, Society, Laws, etc.)\",\n        \"Used 'vivacity' as period-appropriate translation for 'żywość'\",\n        \"'Company of Women' used instead of literal 'female society' to maintain period style\",\n        \"Preserved the rhetorical structure of repetition ('Let them leave us as we are')\"\n    ],\n    \n    \"untranslatable_terms\": [\n        {\n            \"term\": \"humor Towarski\",\n            \"explanation\": \"A specific 18th-century Polish concept referring to social temperament or disposition, partially translated as 'Social temperament' but loses some cultural connotations\"\n        }\n    ],\n    \n    \"confidence\": 0.85\n}",
+    "translation_notes": [
+      "Raw response - JSON parsing failed"
+    ],
+    "untranslatable_terms": [],
+    "confidence": 0.7,
+    "metadata": {
+      "model": "claude-3-5-sonnet-20241022",
+      "provider": "anthropic",
+      "source_language": "Polish",
+      "target_language": "English",
+      "timestamp": "2025-08-03T11:24:04.510386",
+      "prompt_hash": "c6fe92a117552328294b20f8ff4256aa3754a5987e289830f7d00b95583681b1"
+    }
+  }
+}
