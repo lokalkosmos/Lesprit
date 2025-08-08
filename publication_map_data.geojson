@@ -1,0 +1,2604 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "26301a4e-0397-4acb-a824-f4150da4d11c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'Esprit des loix",
+        "publisher": "Chez Barillot & fils, A Gen\u00e8ve",
+        "place_published": "Geneva",
+        "year": 1748,
+        "language": "French",
+        "country": "City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "First Edition",
+        "img": "https://the-digital-dialectica.rarebook-ubfc.fr/wp-content/uploads/2025/07/1748-French-titlepage.jpeg",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a8b00e7-807d-4701-8d35-071e5cf72131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Durand]",
+        "place_published": "Paris",
+        "year": 1748,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93632b8b-aa21-4add-9ccd-7d5bea282399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "La Compagnie",
+        "place_published": "Amsterdam",
+        "year": 1749,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09fafc55-d30a-40e5-b074-32455934c80a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Chatelain",
+        "place_published": "Amsterdam",
+        "year": 1749,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e7705ca-ca45-4a26-adb1-6d7cafc6f427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils",
+        "place_published": "Geneva",
+        "year": 1749,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4bc52d8a-dba4-4b92-b49e-90be5f4ee30e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils",
+        "place_published": "Geneva",
+        "year": 1749,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6684b721-f741-4f7a-99e8-6e982998045a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils",
+        "place_published": "Geneva",
+        "year": 1749,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee9fd2f6-a942-4677-8270-29bf484567d5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Nourse]",
+        "place_published": "London",
+        "year": 1749,
+        "language": "French",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ac3c427-6363-47cf-b664-1285cdb9d18a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832011,
+          45.757814
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Les Libraires Associ\u00e9s [Duplain, impr. Delaroche]",
+        "place_published": "Lyon",
+        "year": 1749,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83f3ecd2-44b3-4ab9-8a34-739cd56244c3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Huart]",
+        "place_published": "Paris",
+        "year": 1749,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03d2d820-df06-4902-8ea5-00f8a24edf2d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Huart]",
+        "place_published": "Paris",
+        "year": 1749,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fc90d84-acf3-4018-9348-ef30d76c7d59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Durand]",
+        "place_published": "Paris",
+        "year": 1749,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7abe4c39-13bc-438a-ab27-93c78266b130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Hamilton and Balfour",
+        "place_published": "Edinburgh",
+        "year": 1750,
+        "language": "French",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f722bec-77f5-42ac-b809-727d24b627ff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Nourse and Vaillant",
+        "place_published": "London",
+        "year": 1750,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "First English Edition",
+        "img": "https://the-digital-dialectica.rarebook-ubfc.fr/wp-content/uploads/2025/07/1750-English-titlepage.jpeg",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "665c25e7-5ff3-4db5-ac75-7a1502adbad4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.248768,
+          40.835885
+        ]
+      },
+      "properties": {
+        "title": "Dello spirito delle leggi",
+        "publisher": "Simone",
+        "place_published": "Naples",
+        "year": 1750,
+        "language": "Italian",
+        "country": "Italian States",
+        "country_context": "Italian States",
+        "edition": "First Italian Edition",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51a11295-379b-466a-9aa7-56ee5823ad2b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Huart et Moreau, Paris chez Barrillot & Fils, Gen\u00e8ve",
+        "place_published": "Paris",
+        "year": 1750,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40cac4d6-f7fb-4086-b6a8-d23665c42ecb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260559,
+          53.349379
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Dublin: G. and A. Ewing, and Faulkner",
+        "place_published": "Dublin",
+        "year": 1751,
+        "language": "English",
+        "country": "Ireland",
+        "country_context": "Ireland",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1d636b8-e977-48b3-ab82-99026ff794db",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Huart]",
+        "place_published": "Paris",
+        "year": 1751,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da89a4be-e49c-4ff2-ae49-7acd572e782a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils [Huart]",
+        "place_published": "Paris",
+        "year": 1751,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3903e652-4023-4d15-8465-76ff8a3ed6e5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Nourse and Vaillant",
+        "place_published": "London",
+        "year": 1752,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c94de8b-61d9-4301-95df-019bc45dd68c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682092,
+          50.110644
+        ]
+      },
+      "properties": {
+        "title": "Vom Geist der Gesetze",
+        "publisher": "S.N.",
+        "place_published": "Frankfurt",
+        "year": 1753,
+        "language": "German",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1feb3121-85ae-4da8-a1ba-0b82708626cc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682092,
+          50.110644
+        ]
+      },
+      "properties": {
+        "title": "Vom Geist der Gesetze",
+        "publisher": "S.N.",
+        "place_published": "Frankfurt and Leipzig",
+        "year": 1753,
+        "language": "German",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3dc4a7ed-1ec0-4e72-b89b-4d893943a935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Vom Geist der Gesetze",
+        "publisher": "S.N.",
+        "place_published": "Frankfurt and Leipzig",
+        "year": 1753,
+        "language": "German",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57ee08c6-6e14-4948-bfb0-f84576202984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Barrillot and Fils",
+        "place_published": "Geneva",
+        "year": 1753,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c80e055a-bf49-4816-bb32-f07ef14aa75f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "La Compagnie",
+        "place_published": "Amsterdam",
+        "year": 1755,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d302f255-33b4-4248-a93e-c68767057d67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "La Compagnie",
+        "place_published": "Amsterdam",
+        "year": 1755,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f3b093c-c4d6-427d-994f-6ea2f3b50f90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.092809,
+          57.148243
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws.",
+        "publisher": "Douglass and Murray",
+        "place_published": "Aberdeen",
+        "year": 1756,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4a4219f-ccd8-4228-86c0-a3a115e89cb9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Huart and Moreau",
+        "place_published": "Paris",
+        "year": 1757,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9e4c600-4dde-4a43-8e4c-05a55fee2eec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Chez Arkste\u0301e & Merkus [i. e. Paris, chez Pierre-Michel Huart et Nicolas-Franc\u0327ois Moreau] Amsterdam, Leipzig",
+        "place_published": "Amsterdam & Leipzig (Paris)",
+        "year": 1758,
+        "language": "French",
+        "country": "Unknown",
+        "country_context": "",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdbb598a-c5ac-49dd-bb6f-b3d72c9b8ce8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "La Compagnie",
+        "place_published": "Amsterdam",
+        "year": 1758,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "633e6c32-d5d8-44a9-af8f-6e2d39ddd67f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Nourse and Vaillant",
+        "place_published": "London",
+        "year": 1758,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29609c3d-aecf-4074-add2-701c412d1964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1759,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a4dbfea9-98ec-4189-94bd-09b3780c1479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570072,
+          55.686724
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "C. & A. Philibert, 1759",
+        "place_published": "Copenhagen",
+        "year": 1759,
+        "language": "French",
+        "country": "Denmark-Norway",
+        "country_context": "Denmark-Norway",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39ecda79-38e3-49f8-af5a-9f0fb2845862",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "C. & A. Philibert, 1759",
+        "place_published": "Geneva",
+        "year": 1759,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "002349ce-3f5a-4868-a8ed-e37097addea9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1759,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "795b9a67-b58d-4b89-9642-4a48584a98b7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Amsterdam",
+        "year": 1761,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9013339-9edd-4cbc-9f1b-4c0ec70faeb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632702,
+          46.521827
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Lausanne",
+        "year": 1761,
+        "language": "French",
+        "country": "Switzerland",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c00cceb1-b6ad-4d6e-b270-0be4a9f7b050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Donaldson and Reid",
+        "place_published": "Edinburgh",
+        "year": 1762,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58296634-d817-4c84-96a2-777f930eedc1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1763,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6208cf32-11c5-4a03-a06e-6b12cbb8803f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1763,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57a0bcbc-65e2-4baa-a0d2-53c1b34ed878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1764,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67529688-d1a6-4a85-98eb-cba1eb464e65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570072,
+          55.686724
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Philibert",
+        "place_published": "Copenhagen",
+        "year": 1764,
+        "language": "French",
+        "country": "Denmark-Norway",
+        "country_context": "Denmark-Norway",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23af34ad-5f02-4bb1-84a2-78da59b78dc1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Philibert",
+        "place_published": "Geneva",
+        "year": 1764,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbca46bb-57cb-4b54-9762-fd3aa20d2eb1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1764,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63bc9c88-f50e-4eed-8567-71f30f96ca8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1765,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "393c9c2f-ca91-4107-97c0-5d84bd4dc18c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1765,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fbda94d-fbe8-4318-b390-e8eabdc71208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Nourse and Vaillant",
+        "place_published": "London",
+        "year": 1766,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "4th Edition",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72d12ab3-83fa-4122-9512-1bdf384a2f4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260559,
+          53.349379
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Faulkner and Ewing",
+        "place_published": "Dublin",
+        "year": 1767,
+        "language": "English",
+        "country": "Ireland",
+        "country_context": "Ireland",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2660cdc-7198-4449-98c1-72e113c80a60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Nourse [Huart]",
+        "place_published": "Paris",
+        "year": 1767,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27e6b0ad-167c-4547-81fd-6cfea91a9e09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Donaldson",
+        "place_published": "Edinburgh",
+        "year": 1768,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e0f0d85-67eb-4591-8e53-b1a1a81925df",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "S.N.",
+        "place_published": "London",
+        "year": 1768,
+        "language": "French",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5157f1e9-b618-4a2d-9fbb-846bcc0c6d42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1769,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04b88134-70d6-4d41-bfc7-04112022ae98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1769,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fffea555-58e2-4040-94af-0cbb200e82b6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Nourse [Le Clerc]",
+        "place_published": "Paris",
+        "year": 1769,
+        "language": "French",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13152019-0e77-44db-8303-009b8e901604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Amsterdam",
+        "year": 1770,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "307ef3e4-85d6-47db-8b26-55e3ee4428b2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.002647,
+          55.769244
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Taylor",
+        "place_published": "Berwick-upon-Tweed",
+        "year": 1770,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e24908b4-e002-430d-b170-91efba56f5f8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.570072,
+          55.686724
+        ]
+      },
+      "properties": {
+        "title": "Om lovenes natur og aarsag",
+        "publisher": "Svare og Skindergaden",
+        "place_published": "Copenhagen",
+        "year": 1770,
+        "language": "Danish",
+        "country": "Denmark-Norway",
+        "country_context": "Denmark-Norway",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abe5bb17-57e9-4458-8871-dee53580d015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632702,
+          46.521827
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Lausanne",
+        "year": 1770,
+        "language": "French",
+        "country": "Switzerland",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4186419-539b-48a0-bddf-159f0dde47f5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De aart der wetten",
+        "publisher": "Kok",
+        "place_published": "Amsterdam",
+        "year": 1771,
+        "language": "Dutch",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b558c8fb-939d-4556-b01d-12a5154dab51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Cailler",
+        "place_published": "Geneva",
+        "year": 1771,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feabe257-c0bd-4c85-bb09-04d3d6b3eebc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Donaldson",
+        "place_published": "Edinburgh",
+        "year": 1772,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "007af4ca-4265-4744-ade3-61a2fcbd3845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.573611,
+          50.645094
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Nourse [Bassompierre]",
+        "place_published": "Li\u00e8ge",
+        "year": 1772,
+        "language": "French",
+        "country": "Austrian Netherlands",
+        "country_context": "Austrian Netherlands",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d765808-11db-4f71-965b-eab389cde624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Lo spirito delle leggi",
+        "publisher": "S.N.",
+        "place_published": "Amsterdam",
+        "year": 1773,
+        "language": "Italian",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1959cb2f-33cb-4da0-b3a4-d4d47e21bbee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1773,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0f3d7b8-1ee2-45db-bc05-5da52550729f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Kincaid and Creech",
+        "place_published": "Edinburgh",
+        "year": 1773,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98db7653-9e83-4dc8-8bef-e6ba0657573d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1773,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d6c7a3e-556c-4bc2-bdbd-cefeedfd2ab0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Crowder, Ware, and Payne",
+        "place_published": "London",
+        "year": 1773,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8767d7cb-b73e-4718-ae74-e0288f78f1cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Nourse and Vaillant",
+        "place_published": "London",
+        "year": 1773,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36ed87da-c96f-4ed4-9561-10048640f746",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Clarke",
+        "place_published": "London",
+        "year": 1773,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e8cba01-ad5e-4875-9b94-26566d4d4932",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "S.N.",
+        "place_published": "Amsterdam",
+        "year": 1775,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "012e7737-3fac-4808-9c16-603cf9b45dbd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.320272,
+          59.940673
+        ]
+      },
+      "properties": {
+        "title": "O razumi\u00cd\u00a1e zakonov",
+        "publisher": "Imperatorskoi Akademii Nauk",
+        "place_published": "Saint Petersburg",
+        "year": 1775,
+        "language": "Slovenian",
+        "country": "Russia",
+        "country_context": "Russia",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62d08d57-0ad8-4909-bb2d-efda00051f04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1777,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f2a5af5-5ded-464d-a2fb-b0141ed2b4eb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260559,
+          53.349379
+        ]
+      },
+      "properties": {
+        "title": "The Complete Works of Monsieur de Montesquieu",
+        "publisher": "Watson",
+        "place_published": "Dublin",
+        "year": 1777,
+        "language": "English",
+        "country": "Ireland",
+        "country_context": "Ireland",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28d7f511-2eac-4c10-b4e4-cf5638bc30b5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.146601,
+          46.201756
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "S.N.",
+        "place_published": "Geneva",
+        "year": 1777,
+        "language": "French",
+        "country": "Geneva City State",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5db44dc-4e06-4586-aee7-33e9377c3ce6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Leipzig",
+        "year": 1777,
+        "language": "French",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b734da24-7f2d-426a-869e-b11f2e51796f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374733,
+          51.340632
+        ]
+      },
+      "properties": {
+        "title": "Duch Czyli Tres\u0301c\u0301 Praw Albo",
+        "publisher": "published by Gr\u00f6llowskiey Ksi\u0119garnia",
+        "place_published": "Leipzig and Dresden",
+        "year": 1777,
+        "language": "Polish",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7242c847-27e2-49ac-803c-ad855f36cb1e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738144,
+          51.049329
+        ]
+      },
+      "properties": {
+        "title": "Duch Czyli Tres\u0301c\u0301 Praw Albo",
+        "publisher": "published by Gr\u00f6llowskiey Ksi\u0119garnia",
+        "place_published": "Leipzig and Dresden",
+        "year": 1777,
+        "language": "Polish",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27176141-30c5-49e6-bd76-1245be86474e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Complete Works of Monsieur de Montesquieu",
+        "publisher": "Evans and Davis",
+        "place_published": "London",
+        "year": 1777,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b92e8591-ee8d-49f6-bcdb-cbbd63f67f3f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "S.N.",
+        "place_published": "London",
+        "year": 1777,
+        "language": "French",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04114e99-1a00-4c90-91d1-8b71dadd5369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "S.N.",
+        "place_published": "London",
+        "year": 1777,
+        "language": "French",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3dd13d6b-fb02-471c-add3-d0a72c8c4156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The spirit of laws",
+        "publisher": "printed for S Crowder, C. Ware, and T. Payne",
+        "place_published": "London",
+        "year": 1777,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "11th Edition",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a4ae4ab0-9549-4deb-a32c-c81c88dbff2e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.248768,
+          40.835885
+        ]
+      },
+      "properties": {
+        "title": "Spirito delle leggi",
+        "publisher": "D. Terres",
+        "place_published": "Napoli",
+        "year": 1777,
+        "language": "Italian",
+        "country": "Italy",
+        "country_context": "Italy",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b4d57d8-b9a7-41ed-9e84-511123b62ad3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Donaldson",
+        "place_published": "Edinburgh",
+        "year": 1778,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9ee8a7b-db41-4b95-b70d-4e29a066b186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Arkstee et Merkus",
+        "place_published": "Amsterdam",
+        "year": 1781,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db6012bd-a9cb-4034-a335-9047e4cd00ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.434099,
+          50.985241
+        ]
+      },
+      "properties": {
+        "title": "Des Herrn von Montesquieu s\u00e4mmtliche Werke",
+        "publisher": "Richter",
+        "place_published": "Altenburg",
+        "year": 1782,
+        "language": "German",
+        "country": "German States",
+        "country_context": "German States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b0c9b63-76ae-4ff5-be8f-370ca86f0dfa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De geest der wetten",
+        "publisher": "Holtrop",
+        "place_published": "Amsterdam",
+        "year": 1783,
+        "language": "Dutch",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b8a51db-9eda-4158-88f9-e42b4c28f4ee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Amsterdam",
+        "year": 1783,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6bd8b29-1a5d-4207-a78d-f48505c3a317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632702,
+          46.521827
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Grasset",
+        "place_published": "Lausanne",
+        "year": 1783,
+        "language": "French",
+        "country": "Switzerland",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a843116-795a-4214-b5bc-f740dc54cd54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "S.N.",
+        "place_published": "Amsterdam",
+        "year": 1784,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9620e148-5dc5-4804-a2cf-e24bb0d5f149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364198,
+          49.248655
+        ]
+      },
+      "properties": {
+        "title": "De l'esprit des lois",
+        "publisher": "Chez Sanson & Compagnie",
+        "place_published": "Deux-Ponts (Zweibr\u00fccken)",
+        "year": 1784,
+        "language": "French",
+        "country": "German States",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6c5f8670-2da7-439c-9743-cefc16a20d42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "S.N.",
+        "place_published": "Amsterdam",
+        "year": 1785,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b6ceff2-9492-4fd8-8215-a5974a3ea290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.597872,
+          50.811583
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "S.N. [Cazin]",
+        "place_published": "Riemst",
+        "year": 1787,
+        "language": "French",
+        "country": "Austrian Netherlands",
+        "country_context": "Austrian Netherlands",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bfa5bef4-36e1-4e75-96bb-0fa81b8d7d63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Bastien",
+        "place_published": "Paris",
+        "year": 1788,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc7a647a-6325-4af2-bb6d-73aa6b4a469c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.892453,
+          52.37308
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "S.N.",
+        "place_published": "Amsterdam",
+        "year": 1790,
+        "language": "French",
+        "country": "United Provinces",
+        "country_context": "United Provinces",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "989223bd-5e4a-40e0-b191-f065b3d257e3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260559,
+          53.349379
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "M'Kenzie and Moore",
+        "place_published": "Dublin",
+        "year": 1791,
+        "language": "English",
+        "country": "Ireland",
+        "country_context": "Ireland",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3422804-2d6b-43a1-bea0-ce401a4e8632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260559,
+          53.349379
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Jones",
+        "place_published": "Dublin",
+        "year": 1792,
+        "language": "English",
+        "country": "Ireland",
+        "country_context": "Ireland",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "beee4fab-2e6e-4c12-af1a-50596296d884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188375,
+          55.953346
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Ruddiman",
+        "place_published": "Edinburgh",
+        "year": 1793,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04da9c6f-4d63-46b1-8880-224e255f70aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.250169,
+          55.861155
+        ]
+      },
+      "properties": {
+        "title": "The spirit of the laws",
+        "publisher": "Niven, Duncan and Son, J. & M. Robertson, and J. & W. Shaw",
+        "place_published": "Glasgow",
+        "year": 1793,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "550ab0b6-ce73-49fe-bfc4-a8c6e26c37b9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Wingrave",
+        "place_published": "London",
+        "year": 1793,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05a99646-2f3f-40ee-9cdf-07255ede3c94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Dodesley and Owen",
+        "place_published": "London",
+        "year": 1794,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f30e7e0-cbea-47c7-a14e-e35c72ff7df0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Printed for James Evans. North America: Sold by Messrs. Thomas and Andrews; Ebenezer Larkin, David West, Mr. J. Thomas, and Messrs. Carter and Wilkinson",
+        "place_published": "London",
+        "year": 1794,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "5th edition",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fd4641e-6d19-4d27-b10f-8ca0785bf8c4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Didot l'a\u00een\u00e9",
+        "place_published": "Paris",
+        "year": 1795,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bd42c71-3822-4d63-91cf-8767a5c2b6ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Plassan, R\u00e9gent-Bernard, et Gr\u00e9goire",
+        "place_published": "Paris",
+        "year": 1796,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b340a167-cb64-47ed-b139-a4727c28b665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Gueffier et Langlois",
+        "place_published": "Paris",
+        "year": 1796,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07845cf6-3040-40a6-b1ee-d1810900fb88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Smits",
+        "place_published": "Paris",
+        "year": 1796,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1430b675-fd12-45fa-9c62-38088524a9ec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Favre and Suchesne",
+        "place_published": "Paris",
+        "year": 1796,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a8ef9a6-f582-46a1-bd8f-47e62d932da5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.250169,
+          55.861155
+        ]
+      },
+      "properties": {
+        "title": "The Spirit of the Laws",
+        "publisher": "Duncan",
+        "place_published": "Glasgow",
+        "year": 1797,
+        "language": "English",
+        "country": "Scotland",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a67863f1-7bef-4cf3-9018-d1de6e65733c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Gide",
+        "place_published": "Paris",
+        "year": 1797,
+        "language": "French",
+        "country": "France",
+        "country_context": "France",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8483675e-9309-4663-bb3e-312bbf536c8d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.248768,
+          40.835885
+        ]
+      },
+      "properties": {
+        "title": "Lo spirito delle leggi",
+        "publisher": "Terres",
+        "place_published": "Naples",
+        "year": 1798,
+        "language": "Italian",
+        "country": "Italian States",
+        "country_context": "Italian States",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9e56c83-93ba-4582-a22a-2dbcb03f8c30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.587826,
+          47.558108
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Monsieur de Montesquieu",
+        "publisher": "Decker",
+        "place_published": "Basel",
+        "year": 1799,
+        "language": "French",
+        "country": "Switzerland",
+        "country_context": "Swiss States and Associates",
+        "edition": "",
+        "img": "",
+        "transcribed": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cfb5bda-cd88-4aa2-96de-cf624ee71b1c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.372504,
+          48.208354
+        ]
+      },
+      "properties": {
+        "title": "Des Herrn von Montesquieu s\u00e4mmtliche Werke",
+        "publisher": "Wien und Bauer",
+        "place_published": "Vienna",
+        "year": 1799,
+        "language": "German",
+        "country": "Austria",
+        "country_context": "Habsburg Monarchy",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da501e25-5d1e-46fc-8bea-f9650a8a0778",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127765,
+          51.507446
+        ]
+      },
+      "properties": {
+        "title": "The Complete Works of Monsieur de Montesquieu",
+        "publisher": "Vernor and Hood",
+        "place_published": "London",
+        "year": 1800,
+        "language": "English",
+        "country": "England",
+        "country_context": "Great Britain",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "651c82ba-5541-4337-bddb-bef67e9c7fb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348391,
+          48.853495
+        ]
+      },
+      "properties": {
+        "title": "Oeuvres de Montesquieu",
+        "publisher": "Edition St\u00e9r\u00e9otype, D'apr\u00e8s le proc\u00e9d\u00e9 de Firmin Didot",
+        "place_published": "Paris",
+        "year": 1803,
+        "language": "French",
+        "country": "France",
+        "country_context": "",
+        "edition": "",
+        "img": "",
+        "transcribed": true
+      }
+    }
+  ]
+}
