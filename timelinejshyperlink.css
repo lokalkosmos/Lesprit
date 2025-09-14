@@ -1,0 +1,10 @@
+.tl-text-content a,
+.tl-text-content a:visited {
+  color: #1E90FF !important;
+}
+
+.tl-text-content a:hover,
+.tl-text-content a:active,
+.tl-text-content a:focus {
+  color: #318CE7 !important;
+}
