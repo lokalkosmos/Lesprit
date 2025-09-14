@@ -1,13 +1,8 @@
-/* Keep default link style (white + underline) from TimelineJS */
-/* Only change hover, focus, and active states */
-
-/* Hover + focus */
-.tl-text-content a:hover,
-.tl-text-content a:focus {
-  color: #1E90FF !important;  /* DodgerBlue */
+.tl-storyslider .tl-slide .tl-text .tl-text-content a:hover,
+.tl-storyslider .tl-slide .tl-text .tl-text-content a:focus {
+  color: #1E90FF !important;
 }
 
-/* Active (when clicking) */
-.tl-text-content a:active {
-  color: #318CE7 !important;  /* darker blue */
+.tl-storyslider .tl-slide .tl-text .tl-text-content a:active {
+  color: #318CE7 !important;
 }
