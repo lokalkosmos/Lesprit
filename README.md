@@ -254,6 +254,13 @@ flowchart TB
     style G fill:#DEFFF8,stroke:#46EDC8
     style H fill:#DEFFF8,stroke:#46EDC8
     style I fill:#DEFFF8,stroke:#46EDC8
+    style E1 fill:#DEFFF8,stroke:#46EDC8
+    style E2 fill:#DEFFF8,stroke:#46EDC8
+    style E3 fill:#DEFFF8,stroke:#46EDC8
+    style I1 fill:#DEFFF8,stroke:#46EDC8
+    style I2 fill:#DEFFF8,stroke:#46EDC8
+    style I3 fill:#DEFFF8,stroke:#46EDC8
+    style I4 fill:#DEFFF8,stroke:#46EDC8
     style T1 fill:#E2EBFF,stroke:#374D7C
     style T2 fill:#E2EBFF,stroke:#374D7C
     style D1 fill:#FFDFE5,stroke:#FF5978
