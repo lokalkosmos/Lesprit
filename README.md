@@ -96,13 +96,13 @@ These editions enable examination of:
 **~100 editions** mapped geographically:
 
 - **Coverage:** 17 European cities across 11 regions
-- **Period:** 1748-1800
+- **Period:** 1748-c. 1800
 - **Source:** Penny University dataset and institutional archives
 - **Purpose:** Demonstrating dissemination patterns whilst acknowledging that geographical coordinates cannot capture cultural complexity
 
 ### Timeline Data
 
-**29 historical events** (1689-1804):
+**29 historical events** (1689-c. 1800):
 - Montesquieu's biography and publication history
 - American and French revolutionary applications
 - Catholic Church censorship (Index, 1751)
@@ -129,13 +129,12 @@ This labour-intensive process shows a fundamental problem. The promise of comput
 
 ### Data Structuring as Epistemology
 
-Converting historical texts to JSON and structured formats involves interpretive choices with philosophical implications:
+Datafying material, social and intellectual history and philosophy involves interpretive choices with philosophical implications:
 
-- Texts segmented into discrete computational units
-- Metadata following predetermined schemas
-- Material features (typography, layout, marginalia) dissolving into character strings
+- Everything is segmented into discrete computational units and forced into structures that affect the content and the user experience
+- Material features (typography, layout, marginalia) that add context essentially become invisible in textual analysis
 
-Data preparation itself enacts the abstraction Montesquieu's philosophy problematises. The requirement for standardisation and uniformity contradicts his insistence on contextual particularity.
+Data preparation and presentation itself enacts the abstraction Montesquieu's philosophy problematises. The requirement for standardisation and uniformity contradicts his insistence on contextual particularity.
 
 ### Large Language Model Analysis
 
@@ -145,9 +144,9 @@ Data preparation itself enacts the abstraction Montesquieu's philosophy problema
 
 **Critical Acknowledgement:**
 
-✓ LLM analysis operates as black box neural network fundamentally opaque to external examination  
-✓ Outputs may contain subtle inaccuracies, anachronisms, biases, and generalisations  
-✓ Statistical pattern recognition optimised for engagement metrics does not equal philosophical interpretation  
+✓ LLM analysis operates as a black box fundamentally opaque to external examination  
+✓ Outputs probably contain subtle inaccuracies, anachronisms, biases, and generalisations
+✓ Statistical pattern recognition is optimised for engagement metrics and does not equal philosophical interpretation  
 ✓ Systems designed for surveillance capitalism's extraction purposes cannot accommodate humanistic nuance by design  
 ✓ All automated analyses require validation through traditional scholarly expertise
 
@@ -187,7 +186,7 @@ Data preparation itself enacts the abstraction Montesquieu's philosophy problema
 
 **Publication Metadata:**
 - Penny University Dataset
-- Scholarly articles
+- Scholarly literature
 - Gallica, Google Books, Internet Archive, and institutional repositories
 
 ---
@@ -371,14 +370,13 @@ In the spirit of methodological transparency, this project acknowledges:
 ### Geographical Abstraction
 
 - Map treats culturally distinct cities as equivalent spatial coordinates
-- Geneva ≠ London ≠ Naples in ways location cannot capture
-- Visualisation enables pattern recognition whilst eliminating contextual richness that Montesquieu insists determines meaning
+- Visualisation enables pattern recognition whilst eliminating the contextual richness that Montesquieu insists determines meaning
 
 ### Infrastructure Origins
 
-- Tools examined emerged from military and corporate research programmes
+- Technological tools emerged from military and corporate research programmes
 - Digital infrastructure designed for command, control, and extraction by design
-- When tools only prove to be inadequate for humanistic understanding, the inadequacy demonstrates their suitability for surveillance capitalism's intended purposes
+- When digital tools prove to be inadequate for humanistic understanding, it is a sign that their suitability is for their intended purposes other than nuanced humanistic scholarship.
 
 These are philosophically significant findings about computational epistemology and the ideological purposes digital infrastructure serves.
 
