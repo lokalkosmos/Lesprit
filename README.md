@@ -904,10 +904,16 @@ All textual transcriptions, data files, and analytical code are freely available
 
 ### Data Sources
 
-- **Penny University Dataset** - Publication metadata
-- **Gallica (Bibliothèque nationale de France)** - Digitised editions
-- **Google Books** - Historical text access
-- **Institutional Archives** - Eighteenth-century holdings
+**Digitised Copies:**
+- Gallica (Bibliothèque nationale de France)
+- Google Books
+- Internet Archive
+- Institutional repositories
+
+**Publication Metadata:**
+- Penny University Dataset
+- Scholarly literature
+- Gallica, Google Books, Internet Archive, and institutional repositories
 
 ### Tools and Platforms
 
