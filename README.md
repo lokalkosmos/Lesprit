@@ -396,7 +396,7 @@ These are philosophically significant findings about computational epistemology 
 }
 ```
 
-### Thesis
+### Thesis Project's Digital Object
 
 ```bibtex
 @mastersthesis{2025_montesquieu,
