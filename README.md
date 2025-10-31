@@ -466,7 +466,7 @@ This project builds on critical DH and technology scholarship by:
 
 - **Johanna Drucker** (graphical epistemology and rhetorical visualisation)
 - **Alan Liu** (cultural criticism in DH)
-- **Stephen Ramsay** (hermeneutics of algorithmic criticism)
+- **Stephen Ramsay** (critical digital scholarship)
 - **Paul Edwards** (infrastructure politics and closed worlds)
 - **Shoshana Zuboff** (surveillance capitalism critique)
 
