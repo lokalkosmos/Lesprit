@@ -459,7 +459,7 @@ All textual transcriptions, data files, and analytical code are freely available
 - **Anthropic Claude** - Large language model analysis
 - **Knight Lab (Northwestern)** - TimelineJS
 - **Leaflet Contributors** - Open-source mapping
-- **AI Code Assistance**:
+- **AI Code Assistance** - 
 The development of code for jupyter notebooks and this project's website involved code generation support from AI tools, including Anthropic's Claude 3.5 Sonnet, OpenAI's ChatGPT, and xAI's Grok. These tools were used to assist in drafting and refining code. All code was reviewed, tested, and validated by the author to ensure functionality and accuracy.
 
 ### Theoretical Foundations
