@@ -14,7 +14,7 @@ A critical Digital Humanities project examining Montesquieu's *De l'esprit des l
 
 - [Project Overview](#project-overview)
 - [Research Philosophy](#research-philosophy)
-- [Repository Structure](#repository-structure)
+- [Repository Contents](#repository-contents)
 - [Corpus and Data](#corpus-and-data)
 - [Methodological Approach](#methodological-approach)
 - [Technologies Used](#technologies-used)
@@ -459,6 +459,8 @@ All textual transcriptions, data files, and analytical code are freely available
 - **Anthropic Claude** - Large language model analysis
 - **Knight Lab (Northwestern)** - TimelineJS
 - **Leaflet Contributors** - Open-source mapping
+- **AI Code Assistance**:
+The development of code for jupyter notebooks and this project's website involved code generation support from AI tools, including Anthropic's Claude 3.5 Sonnet, OpenAI's ChatGPT, and xAI's Grok. These tools were used to assist in drafting and refining code. All code was reviewed, tested, and validated by the author to ensure functionality and accuracy.
 
 ### Theoretical Foundations
 
